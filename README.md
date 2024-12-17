@@ -1,12 +1,7 @@
 # poketpet-server
 NodeJS Easy Start, My code sample
 
-#### Intermediary: BANK OF NEW YORK MELLON, New York, USA
-#### SWIFT: IRVTUS3N
-#### Beneficiary's bank: JSC KREDOBANK Lviv, Ukraine
-#### SWIFT: WUCBUA2X
-#### Beneficiary Name: VOLODYMYR MALYNOVSKYI
-#### IBAN UA673253650000026204061718136
+https://www.linkedin.com/in/volodymyr-malynovskyi-bb2a6b19b link to my LinkedIn profile 
 
 # THIS IS BASIK EXAMPLE FOR NODE JS DEVELOPERS
 ## I hope it will be usefull)))
